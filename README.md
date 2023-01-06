@@ -20,6 +20,10 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=masahosono&theme=onedark&show_icons=ture" />
 </p>
 
+## Website
+- blog: https://masahosono.dev
+- tools: https://lab.masahosono.dev
+
 ## Learning
 - Vue.js
 - Flutter
