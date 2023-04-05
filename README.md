@@ -25,5 +25,5 @@
 - tools: https://lab.masahosono.dev
 
 ## Learning
-- Vue.js
-- Flutter
+- GraphQL
+- Apollo
