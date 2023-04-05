@@ -27,3 +27,4 @@
 ## Learning
 - GraphQL
 - Apollo
+- Auth0
