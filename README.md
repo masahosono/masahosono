@@ -1,5 +1,12 @@
 # masahosono
 
+## Stats
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masahosono&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=masahosono&theme=onedark&show_icons=ture" />
+</p>
+
 ## Social
 <p align="left">
   <a href="https://github.com/masahosono">
@@ -13,18 +20,11 @@
   </a> -->
 </p>
 
-## Stats
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masahosono&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=masahosono&theme=onedark&show_icons=ture" />
-</p>
-
 ## Website
 - blog: https://masahosono.dev
 - tools: https://lab.masahosono.dev
 
-## Learning
+## Interested / Learning
 - GraphQL
 - Apollo
 - Auth0
