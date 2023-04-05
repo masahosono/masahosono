@@ -20,7 +20,7 @@
   </a> -->
 </p>
 
-## Website
+## My Website
 - blog: https://masahosono.dev
 - tools: https://lab.masahosono.dev
 
